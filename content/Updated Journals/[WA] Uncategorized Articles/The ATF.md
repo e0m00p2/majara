@@ -1,10 +1,10 @@
 ---
-title: "The ATF"
+title: The ATF
 icon: ":book:"
-aliases: "The ATF"
+aliases:
+  - The ATF
 foundryId: JournalEntry.jL9TqoRcuifPoRe9
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

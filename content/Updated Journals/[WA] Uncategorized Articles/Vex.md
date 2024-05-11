@@ -1,10 +1,10 @@
 ---
-title: "Vex"
+title: Vex
 icon: ":book:"
-aliases: "Vex"
+aliases:
+  - Vex
 foundryId: JournalEntry.qpd3srbl6M91VvOh
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Vex

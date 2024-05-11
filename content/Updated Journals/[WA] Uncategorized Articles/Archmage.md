@@ -1,10 +1,10 @@
 ---
-title: "Archmage"
+title: Archmage
 icon: ":book:"
-aliases: "Archmage"
+aliases:
+  - Archmage
 foundryId: JournalEntry.GxvbCE5JSZawqiRC
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Side contents

@@ -1,10 +1,10 @@
 ---
-title: "Stinger Tomb"
+title: Stinger Tomb
 icon: ":book:"
-aliases: "Stinger Tomb"
+aliases:
+  - Stinger Tomb
 foundryId: JournalEntry.aAWir7DOYHICzC2F
-tags:
-  - JournalEntry
+tags: []
 ---
 # Side contents
 Constructed

@@ -1,11 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.Vc5jfHQIQdOPHNhY.JournalEntryPage.LGP6taAYL5RnQ2VA
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 
 One of [[Jenny's Girls]]

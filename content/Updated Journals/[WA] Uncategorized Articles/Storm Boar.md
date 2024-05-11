@@ -1,10 +1,10 @@
 ---
-title: "Storm Boar"
+title: Storm Boar
 icon: ":book:"
-aliases: "Storm Boar"
+aliases:
+  - Storm Boar
 foundryId: JournalEntry.7R4LgOWcuZYNcHD5
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

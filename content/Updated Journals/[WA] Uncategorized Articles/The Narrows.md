@@ -1,10 +1,10 @@
 ---
-title: "The Narrows"
+title: The Narrows
 icon: ":book:"
-aliases: "The Narrows"
+aliases:
+  - The Narrows
 foundryId: JournalEntry.f8vmelWbF3zplbzk
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

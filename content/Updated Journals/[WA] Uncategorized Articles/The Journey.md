@@ -1,10 +1,10 @@
 ---
-title: "The Journey"
+title: The Journey
 icon: ":book:"
-aliases: "The Journey"
+aliases:
+  - The Journey
 foundryId: JournalEntry.epYGtIEAYyUHyNXd
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Side contents

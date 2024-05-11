@@ -1,10 +1,10 @@
 ---
-title: "The Enchanted Academy"
+title: The Enchanted Academy
 icon: ":book:"
-aliases: "The Enchanted Academy"
+aliases:
+  - The Enchanted Academy
 foundryId: JournalEntry.ytScqx5A0BU3xUXj
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

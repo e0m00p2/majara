@@ -1,11 +1,8 @@
 ---
-title: Article
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.Ws3DVse42NXEVtJA.JournalEntryPage.LktOXGSNe40sqk4y
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 
 # Church of the Conquerors

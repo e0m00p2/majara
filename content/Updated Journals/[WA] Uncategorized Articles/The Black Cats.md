@@ -1,10 +1,10 @@
 ---
-title: "The Black Cats"
+title: The Black Cats
 icon: ":book:"
-aliases: "The Black Cats"
+aliases:
+  - The Black Cats
 foundryId: JournalEntry.iskGZQCsx4SyOSak
-tags:
-  - JournalEntry
+tags: []
 ---
 
 

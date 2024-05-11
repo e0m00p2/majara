@@ -1,10 +1,10 @@
 ---
-title: "The Order of the Obsidian Flame"
+title: The Order of the Obsidian Flame
 icon: ":book:"
-aliases: "The Order of the Obsidian Flame"
+aliases:
+  - The Order of the Obsidian Flame
 foundryId: JournalEntry.FjE1hxAl7zi6IjMQ
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

@@ -1,10 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.NZHIIcuR9NcMjms4.JournalEntryPage.uVxQjwpbizolpWzc
-tags:
-  - JournalEntryPage
+tags: []
 ---
 # Article
 New Graffoc is the capital city of [[Updated Journals/[WA] Countries/Barban|Barban]], located in a magical world where the use of magic is highly valued. People without magic, referred to as munds, are often pitied and viewed as inferior. The city is ruled by the [[Archmage]] [[Conifer Hythirian]], although most of the power is delegated to various civic guilds, making it a city run by a guild council of sorts.

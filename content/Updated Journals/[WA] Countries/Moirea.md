@@ -1,10 +1,10 @@
 ---
-title: "Moirea"
+title: Moirea
 icon: ":book:"
-aliases: "Moirea"
+aliases:
+  - Moirea
 foundryId: JournalEntry.dXYwAtsCYBaW9j3a
-tags:
-  - JournalEntry
+tags: []
 ---
 The Free Republic
 # Article

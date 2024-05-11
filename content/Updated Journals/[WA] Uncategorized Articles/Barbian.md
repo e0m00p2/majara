@@ -1,11 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.3jlaBlRn6CvBTMul.JournalEntryPage.ntwRPm5AD5AaI9oY
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 The common term for one from [[Updated Journals/[WA] Countries/Barban|Barban]]. 
 # Side contents

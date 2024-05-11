@@ -1,10 +1,8 @@
 ---
-title: Article
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.uqZiOQYe025S25so.JournalEntryPage.fnSjXDKYnHbhO0ZH
-tags:
-  - JournalEntryPage
+tags: []
 ---
 
 # Article

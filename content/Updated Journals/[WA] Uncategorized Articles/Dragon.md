@@ -1,10 +1,9 @@
 ---
-title: Article
 icon: ":sticky-note:"
-aliases: []
+aliases:
+  - True Dragon
 foundryId: JournalEntry.tOSIVHjfXebrwc41.JournalEntryPage.TdUfyDsPOhFo4e7I
 tags:
-  - JournalEntryPage
 ---
 
 # Article

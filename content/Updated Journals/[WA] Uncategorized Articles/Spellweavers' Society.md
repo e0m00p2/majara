@@ -1,10 +1,10 @@
 ---
-title: "Spellweavers' Society"
+title: Spellweavers' Society
 icon: ":book:"
-aliases: "Spellweavers' Society"
+aliases:
+  - Spellweavers' Society
 foundryId: JournalEntry.RJHuDcTKO12uDEQ3
-tags:
-  - JournalEntry
+tags: []
 ---
 # Article
 The Spellweavers' Society is a guild of wizards and sorcerers who specialize in the use of magic for practical purposes such as construction and maintenance. They are responsible for maintaining the infrastructure of [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]], including roads, bridges, public buildings, and public spaces such as parks and plazas. The guild's members are known for their skill and knowledge in using magic to solve practical problems and their work is highly valued and respected in the city. The Spellweavers' Society also uses their magic to repair damage caused by natural disasters, as well as to construct new buildings and structures.

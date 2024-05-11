@@ -1,10 +1,10 @@
 ---
-title: "Softpaw Guild"
+title: Softpaw Guild
 icon: ":book:"
-aliases: "Softpaw Guild"
+aliases:
+  - Softpaw Guild
 foundryId: JournalEntry.G6Nte9UqUSKZBVON
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Side contents

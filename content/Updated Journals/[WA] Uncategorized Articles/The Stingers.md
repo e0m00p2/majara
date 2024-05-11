@@ -1,10 +1,10 @@
 ---
-title: "The Stingers"
+title: The Stingers
 icon: ":book:"
-aliases: "The Stingers"
+aliases:
+  - The Stingers
 foundryId: JournalEntry.Tosw4vqPkrwYC6Ri
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

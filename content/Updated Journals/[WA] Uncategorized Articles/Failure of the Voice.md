@@ -1,11 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.GnRa1qIsHEWHwVbM.JournalEntryPage.gGqObK57e3TOFYpN
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 
 

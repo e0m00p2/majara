@@ -1,10 +1,10 @@
 ---
-title: "Samuel Ravenwood"
+title: Samuel Ravenwood
 icon: ":book:"
-aliases: "Samuel Ravenwood"
+aliases:
+  - Samuel Ravenwood
 foundryId: JournalEntry.JX4iE6VeZPmKezIl
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

@@ -1,11 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.a8eSKRx5SwSb0196.JournalEntryPage.UpFqYjTzPbso09AC
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 A whore's guild in [[New Graffoc]]
 # Side contents

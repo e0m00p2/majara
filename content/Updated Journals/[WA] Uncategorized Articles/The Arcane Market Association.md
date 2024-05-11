@@ -1,10 +1,10 @@
 ---
-title: "The Arcane Market Association"
+title: The Arcane Market Association
 icon: ":book:"
-aliases: "The Arcane Market Association"
+aliases:
+  - The Arcane Market Association
 foundryId: JournalEntry.mQe48tfojopmoRfX
-tags:
-  - JournalEntry
+tags: []
 ---
 # Article
 The Arcane Market Association, commonly known as the AMA, is a powerful organization within [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]]. Its members include merchants, tradespeople, and other business owners who deal in magic goods and services. The main role of the AMA is to facilitate commerce within the city, ensuring that goods and services are exchanged fairly and that prices are set at reasonable levels. The AMA also provides a range of services to its members, including assistance with financial transactions, legal support, and market research.

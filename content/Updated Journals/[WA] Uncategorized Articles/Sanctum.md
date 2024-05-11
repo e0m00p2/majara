@@ -1,10 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.CapeThHYB4udzmSu.JournalEntryPage.ncfmYCO9TAX3vKH7
-tags:
-  - JournalEntryPage
+tags: []
 ---
 # Article
 Sanctum is the capital city of [[Liosan]], and it is considered the center of the religious and cultural life of the kingdom. The city is built around the Temple of the Order of the Grave, the main shrine of [[Lord Death]], and is said to be a place of peace and serenity. The streets are lined with trees and shrubs, giving it a green and lush appearance, and there are many public gardens, fountains, and statues throughout the city. The city is home to many important institutions and organizations, including the Order of the Grave's main headquarters and the Council of Elders, who are responsible for overseeing the religious practices and teachings of [[Lord Death]]. Sanctum is also a major center of trade and commerce, with many markets and shops selling goods from all over the kingdom and beyond.

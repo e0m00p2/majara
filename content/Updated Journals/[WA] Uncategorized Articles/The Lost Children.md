@@ -1,10 +1,10 @@
 ---
-title: "The Lost Children"
+title: The Lost Children
 icon: ":book:"
-aliases: "The Lost Children"
+aliases:
+  - The Lost Children
 foundryId: JournalEntry.4x7LnihSY951vnfh
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Article

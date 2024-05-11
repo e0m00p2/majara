@@ -1,10 +1,10 @@
 ---
-title: "Thera Ironfoot"
+title: Thera Ironfoot
 icon: ":book:"
-aliases: "Thera Ironfoot"
+aliases:
+  - Thera Ironfoot
 foundryId: JournalEntry.yaMrq8UdFAlMSghd
-tags:
-  - JournalEntry
+tags: []
 ---
 
 # Thera Ironfoot
