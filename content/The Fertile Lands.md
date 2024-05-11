@@ -1,0 +1,1 @@
+A portion of the Majara lands gifted with fecund growth due to the influence of a massive divine event known as [[The Great Growth]].

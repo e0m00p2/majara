@@ -1,0 +1,1 @@
+A protorace from before [[The Great Growth]], they were a group of giants that bred rapidly and could survive on almost any organic substance. They had a great love of combat, fighting with any other races that were nearby, or each other if there were none. Cursed by [[D'mitrius Marcus|The Great Storyteller]], they have now become Halflings.

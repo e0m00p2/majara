@@ -1,0 +1,1 @@
+A divine event from over 2000 years ago when various dark races were destroyed by the influence of a powerful divine entity. The [[Diamenfur]], [[The-Mind-Across-Minds]], [[Havrosil]], [[Komodo]], and Fulhings were all effectively destroyed at this time, allowing the growth of other races such as [[Dwarf|Dwarves]], [[Elf|Elves]], [[Gnomes]], and Humans.
