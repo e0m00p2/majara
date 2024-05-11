@@ -16,7 +16,7 @@ Class Notes: Cleric and Paladin are not allowed at this time. Druids: Those who 
 # Side contents
 Geography
 
-A planet much like Majara though with  a moon.
+A planet much like [[Majara]] though with  a moon.
 
 ## Naturalresources
 

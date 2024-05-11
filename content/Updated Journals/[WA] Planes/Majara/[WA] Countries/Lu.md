@@ -9,7 +9,7 @@ tags: []
 
 
 # Article
-The Lu Empire is a unique and fascinating place located south of [[Updated Journals/[WA] Countries/Barban|Barban]]. It is known for its rich cultural heritage. The **Chati** are the dominant race in the empire and are a humanoid feline species. They hold a great sense of pride in their heritage and have a strong warrior tradition.
+The Lu Empire is a unique and fascinating place located south of [[Barban|Barban]]. It is known for its rich cultural heritage. The **Chati** are the dominant race in the empire and are a humanoid feline species. They hold a great sense of pride in their heritage and have a strong warrior tradition.
 
 Despite this, the Chati are not exclusive and do welcome humans into their society. Although humans are considered to be second-class citizens, they are treated with affection and respect. The Chati see themselves as benevolent and consider it their duty to protect and care for the humans under their rule. However, this also means that they sometimes act in a patronizing manner, thinking of humans as inferior and in need of guidance.
 

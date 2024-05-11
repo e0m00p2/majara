@@ -22,7 +22,7 @@ Until one of greater magical potency arises or death
 
 ## Duties
 
-Ruling [[Updated Journals/[WA] Countries/Barban|Barban]], Maintaining Arcane Technologies.
+Ruling [[Barban|Barban]], Maintaining Arcane Technologies.
 
 * * *
 

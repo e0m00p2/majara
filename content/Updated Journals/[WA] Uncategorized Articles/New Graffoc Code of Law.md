@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-The scroll of law for all of [[Updated Journals/[WA] Countries/Barban|Barban]]. There are several copies, magically made, but the original remains in [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]]. As laws are changed and added, material is added to the scroll wizardry, though old laws are never removed so a record of what came before can be maintained.
+The scroll of law for all of [[Barban|Barban]]. There are several copies, magically made, but the original remains in [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]]. As laws are changed and added, material is added to the scroll wizardry, though old laws are never removed so a record of what came before can be maintained.
 
 
 # Side contents
@@ -39,7 +39,7 @@ Old Mage Laws
 *   Enchantment
 *   Sale of Magic Items
 
-Influence from [[Updated Journals/[WA] Countries/Scourre|Scourre]]
+Influence from [[Scourre|Scourre]]
 
 *   Dueling codes
 *   Dueling isn't official but is allowed and failing to accept a duel or losing a duel is terrible for a guilds reputation.

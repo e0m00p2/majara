@@ -30,4 +30,4 @@ Aurora Serpents are native to the Elemental Chaos, where they thrive in the chao
 
 Ecology: 
 
-The magnetic energy that makes up the Aurora Serpent is thought to be connected to the chaotic and ever-changing nature of the Elemental Chaos. This connection gives the species a unique and unpredictable quality, making it a valuable source of power for the Gnomish airships. Despite this, the loss of the species is a blow to the ecosystem of the Elemental Chaos, and its extinction would be a tragedy for the world of Majara.
+The magnetic energy that makes up the Aurora Serpent is thought to be connected to the chaotic and ever-changing nature of the Elemental Chaos. This connection gives the species a unique and unpredictable quality, making it a valuable source of power for the Gnomish airships. Despite this, the loss of the species is a blow to the ecosystem of the Elemental Chaos, and its extinction would be a tragedy for the world of [[Majara]].

@@ -50,7 +50,7 @@ Male
 
 Currentstatus
 
-On a mission to bring true faith to [[Updated Journals/[WA] Countries/Barban|Barban]]
+On a mission to bring true faith to [[Barban|Barban]]
 
 ## History
 

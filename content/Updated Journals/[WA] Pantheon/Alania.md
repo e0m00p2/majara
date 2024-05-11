@@ -2,7 +2,8 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.OGOq5Pi8lux5vjHg.JournalEntryPage.OtYZttIFVWJYLQoe
-tags: []
+tags:
+  - Elysium
 ---
 
 # Article

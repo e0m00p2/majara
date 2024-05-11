@@ -28,7 +28,7 @@ True Death Callers
 
 ## Assets
 
-Several magic items each and considerable pools of wealth. Several bases across [[Updated Journals/[WA] Countries/Barban|Barban]] with servants to maintain them and horses ready to ride at a moments notice.
+Several magic items each and considerable pools of wealth. Several bases across [[Barban|Barban]] with servants to maintain them and horses ready to ride at a moments notice.
 
 * * *
 

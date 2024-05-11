@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-High Cleric Rowan Dawnstar is a prominent figure in the city of [[Updated Journals/[WA] Countries/Barban|Barban]], known for her role as the leader of the [[Celestial Caretakers]] guild. She is a skilled healer and a devout follower of the goddess of mercy and compassion, [[Lumina]]. Rowan is highly respected for her unwavering faith in [[Lumina]] and her strict adherence to the laws regulating the use of divine magic.
+High Cleric Rowan Dawnstar is a prominent figure in the city of [[Barban|Barban]], known for her role as the leader of the [[Celestial Caretakers]] guild. She is a skilled healer and a devout follower of the goddess of mercy and compassion, [[Lumina]]. Rowan is highly respected for her unwavering faith in [[Lumina]] and her strict adherence to the laws regulating the use of divine magic.
 
 Rowan's compassion and kindness have made her a beloved figure among the people of [[Barban]], especially those in need of healing. She is known for offering aid to anyone who seeks her help, regardless of their background or social status. Her dedication to her faith has also earned her the trust and respect of the city's leaders and other religious organizations.
 

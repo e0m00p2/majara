@@ -2,11 +2,12 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.WJfpRNOxixHZ8Sdg.JournalEntryPage.1mUbhJ0aMEOmI6JQ
-tags: []
+tags:
+  - Pandemonium
 ---
 
 # Article
-**Overview:** Over 800 years ago, Apollyon emerged as the god of [[Updated Journals/[WA] Countries/Scourre|Scourre]], overseeing realms of destruction, vengeance, hate, and fury. The land was ensnared by a theocracy manipulated by power-hungry clerics who sought to expand and capture slaves for sacrificial rites. Apollyon reveled in the bloodshed, indifferent to the internal power struggles within [[The Path of Endless Fury]]—the church dedicated to his malevolent glory.  
+**Overview:** Over 800 years ago, Apollyon emerged as the god of [[Scourre|Scourre]], overseeing realms of destruction, vengeance, hate, and fury. The land was ensnared by a theocracy manipulated by power-hungry clerics who sought to expand and capture slaves for sacrificial rites. Apollyon reveled in the bloodshed, indifferent to the internal power struggles within [[The Path of Endless Fury]]—the church dedicated to his malevolent glory.  
 
 **Manifestation of Madness** Apollyon, a god driven beyond the realms of sanity, manifested personally during conflicts, willingly absorbing blows from other gods. The pain seemed to only deepen his madness, fueling his hatred and fury. The origins of Apollyon's creation remain shrouded in mystery, lost to the annals of time, leaving only the enduring legacy of a god consumed by madness.  
 

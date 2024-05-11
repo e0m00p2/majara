@@ -8,7 +8,7 @@ tags: []
 # Article
 ### Geography:
 
-Coedada, strategically situated between the Kingdom of Conquerors ([[Updated Journals/[WA] Countries/Scourre|Scourre]]) to the north and the [[Dwarf]] hold Emblajul to the southeast, has a diverse landscape. The challenging northern terrains have shaped the Coedada into experts in fortification, while the southern regions, influenced by their [[Dwarf|Dwarven]] neighbors, boast substantial mountainous terrain and rich mineral deposits.
+Coedada, strategically situated between the Kingdom of Conquerors ([[Scourre|Scourre]]) to the north and the [[Dwarf]] hold Emblajul to the southeast, has a diverse landscape. The challenging northern terrains have shaped the Coedada into experts in fortification, while the southern regions, influenced by their [[Dwarf|Dwarven]] neighbors, boast substantial mountainous terrain and rich mineral deposits.
 
 ### Political Structure:
 

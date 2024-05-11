@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-Among the gods of Majara, Krotos the Skeletal God emerges as a sinister and malevolent [[Deity]], embodying the darker and more fearsome aspects of death. Distinct from [[Lord Death]]'s benevolent and passive nature, Krotos revels in the terror and power that death can wield over the living.
+Among the gods of [[Majara]], Krotos the Skeletal God emerges as a sinister and malevolent [[Deity]], embodying the darker and more fearsome aspects of death. Distinct from [[Lord Death]]'s benevolent and passive nature, Krotos revels in the terror and power that death can wield over the living.
 
 Appearance: Krotos is a ghastly figure, his skeletal form always exposed, a constant reminder of the inescapable fate awaiting all mortals. His bones are an eerie, unnatural white, and his eye sockets burn with relentless blue-white flames, symbolizing his unyielding grip over the souls of the dead.
 
@@ -16,8 +16,8 @@ Influence and Worship: Krotos attracts a following among those who embrace the d
 
 Powers and Abilities: Krotos wields formidable control over death and the undead. He can command legions of undead creatures, curse the living with deadly afflictions, and manipulate the spirits of the departed for his nefarious purposes. His blue-white flames are a manifestation of his dominion over the soul, capable of obliterating both the physical body and the spirit.
 
-Role in the World: Krotos stands as a dark blight in the world of Majara, a constant threat looming over the realms of the living. He serves as a stark reminder of the fear and corruption that death can bring when twisted by evil intentions.
+Role in the World: Krotos stands as a dark blight in the world of [[Majara]], a constant threat looming over the realms of the living. He serves as a stark reminder of the fear and corruption that death can bring when twisted by evil intentions.
 
 Interactions with Other Deities: Krotos is often at odds with other deities, especially those who represent life, healing, and a natural passage into the afterlife, like [[Lord Death]]. His presence is a bane to their efforts, and conflicts between his dark agenda and their life-affirming goals are common.
 
-In summary, Krotos the Skeletal God is a figure of terror and malevolence in Majara's pantheon, a [[Deity]] who personifies the darkest aspects of death and the afterlife. His influence is a shadow cast across the world, reminding all of the power and fear that death can hold when tainted by evil.
+In summary, Krotos the Skeletal God is a figure of terror and malevolence in [[Majara]]'s pantheon, a [[Deity]] who personifies the darkest aspects of death and the afterlife. His influence is a shadow cast across the world, reminding all of the power and fear that death can hold when tainted by evil.

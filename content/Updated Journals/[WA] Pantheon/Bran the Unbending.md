@@ -2,7 +2,8 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.gkVZx7JwjxNzDawJ.JournalEntryPage.uCpffOmAK4QLudjp
-tags: []
+tags:
+  - Ysgard
 ---
 
 # Article

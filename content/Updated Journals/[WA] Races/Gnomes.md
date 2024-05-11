@@ -31,7 +31,7 @@ The skin of gnomes ran in hue from reddish tans to earthy browns or even shades 
 
 ## Perception
 
-Like many of the races of Majara, Gnomes have excellent darkvision, being able to see 60 feet in darkness as if in dim light.
+Like many of the races of [[Majara]], Gnomes have excellent darkvision, being able to see 60 feet in darkness as if in dim light.
 
 * * *
 

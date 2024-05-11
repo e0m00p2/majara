@@ -2,7 +2,9 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.UtdaeDiRiRWUiK8F.JournalEntryPage.ZH1HXLQ2wvVe9q02
-tags: []
+tags:
+  - Feywild
+  - Arborea
 ---
 
 # Side contents

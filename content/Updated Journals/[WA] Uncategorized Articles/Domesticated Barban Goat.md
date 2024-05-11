@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-Entomology The scientific name of the Domesticated [[Updated Journals/[WA] Countries/Barban|Barban]] Goat is Capra Barbanensis Domestica. The name "Capra" is the genus name for goats, while "Barbanensis" refers to its origin in the region of [[Barban]] and "Domestica" highlights its domestication.
+Entomology The scientific name of the Domesticated [[Barban|Barban]] Goat is Capra Barbanensis Domestica. The name "Capra" is the genus name for goats, while "Barbanensis" refers to its origin in the region of [[Barban]] and "Domestica" highlights its domestication.
 
 Taxonomy Kingdom: Animalia Phylum: Chordata Class: Mammalia Order: Artiodactyla Family: Bovidae Genus: Capra Species: C. barbanensis domestica
 

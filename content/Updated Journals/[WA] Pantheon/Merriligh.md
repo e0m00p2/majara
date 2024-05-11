@@ -2,7 +2,8 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.Xs8wAYR7sPBn6Xfy.JournalEntryPage.k0R0KJoZBwebmwOn
-tags: []
+tags:
+  - Arborea
 ---
 
 # Article

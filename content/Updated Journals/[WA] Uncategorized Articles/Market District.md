@@ -6,4 +6,4 @@ tags: []
 ---
 
 # Article
-The Market district, where all the goods of any quality are sold. A very popular location to visit, particularly for those from outside of [[Updated Journals/[WA] Countries/Barban|Barban]] as consumable magic items of all sorts are sold here in abundance.
+The Market district, where all the goods of any quality are sold. A very popular location to visit, particularly for those from outside of [[Barban|Barban]] as consumable magic items of all sorts are sold here in abundance.

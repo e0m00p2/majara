@@ -13,7 +13,7 @@ The Free Republic
 *   Some 200 people survived, starting the first town of Moirea, then nameless, several hours travel up the coast of a river, where they could not easily be seen or found by traveling slaver ships.
 *   From this point, their numbers grew. The community was somewhat unusual as the slaves were of mixed races and there were several [[Elf|Elves]], a goodly portion of hobbits, some [[Gnomes]], humans, and a considerable number of half-orcs.
 *   As the population grew, some broke off to form their own communities. Others decided to travel, leaving Moirea(still unnamed) entirely.
-*   From these few, the rumors of a place of freedom formed in [[Awstinai]] and [[Updated Journals/[WA] Countries/Scourre|Scourre]]. Some others managed to escape and flee to here, joining the slowly growing villages and towns.
+*   From these few, the rumors of a place of freedom formed in [[Awstinai]] and [[Scourre|Scourre]]. Some others managed to escape and flee to here, joining the slowly growing villages and towns.
 *   Others, often outcasts of their race or feeling constrained by the laws of their own kingdoms, headed to this place, joining these communities or forming their own.
 *   Groups of the Shotto, the Shadar Kai Travelers, settled in this place at last, finding somewhere where they would not immediately be judged for their appearance.
 *   A "Trade Center" forms in the near center of the now called Moirea, which means Free Land in Halflings, a city of sorts or at least a large clearing where people travel to set up stalls and trade with the others from different villages.
@@ -24,5 +24,5 @@ The Free Republic
 *   This first show of unity did decrease the number of lost to the slavers and started a national pride
 *   The term "Republic of Moirea" becomes commonplace.
 *   At some point later a powerful Elvin wizard female approaches the council. She offers to train three acolytes a year to the point that they can send messages over great distances. She points out that utility if each town fills a great tower for them to watch from, of how much more quickly aid can be called not to mention the aid of a lesser wizard.
-*   She is open with the fact that she has been exiled from the [[Elf|Elven]] Kingdom and [[Updated Journals/[WA] Countries/Barban|Barban]] for interest in Shadow Magic and other generally considered less moral magics. However the benefits are too much and the council accepts, allowing her to build her own Tower at a fairly small town where she will not be likely Disturbed.
+*   She is open with the fact that she has been exiled from the [[Elf|Elven]] Kingdom and [[Barban|Barban]] for interest in Shadow Magic and other generally considered less moral magics. However the benefits are too much and the council accepts, allowing her to build her own Tower at a fairly small town where she will not be likely Disturbed.
 *   The council is given Three Chits per year that allow entry to her tower for training

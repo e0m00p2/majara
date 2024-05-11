@@ -7,4 +7,4 @@ foundryId: JournalEntry.W0BkttomZ5rthqmT
 tags: []
 ---
 
-Previous [[Archmage]] of [[Updated Journals/[WA] Countries/Barban|Barban]], slain by [[Zhu Cheng]] personally during the Rebellion. Had a powerful obsession with Stella and sold his soul over it. 
+Previous [[Archmage]] of [[Barban|Barban]], slain by [[Zhu Cheng]] personally during the Rebellion. Had a powerful obsession with Stella and sold his soul over it. 

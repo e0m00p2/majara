@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-The Skulking Ape is a carnivorous primate native to the dense tropical forests of the world of Majara. Unlike its solitary counterparts, this elusive creature is a highly social animal, forming packs to hunt its prey from above in the tree branches.
+The Skulking Ape is a carnivorous primate native to the dense tropical forests of the world of [[Majara]]. Unlike its solitary counterparts, this elusive creature is a highly social animal, forming packs to hunt its prey from above in the tree branches.
 
 Appearance
 
@@ -30,4 +30,4 @@ The Skulking Ape has a strange habit of collecting trinkets from humanoids it ki
 
 In Conclusion
 
-The Skulking Ape is a dangerous predator that should not be underestimated. Its ability to stalk its prey from above and its powerful arms, combined with its pack mentality, make it a formidable foe. Adventurers who venture into the dense tropical forests of Majara should be aware of this creature and be prepared to defend themselves if necessary.
+The Skulking Ape is a dangerous predator that should not be underestimated. Its ability to stalk its prey from above and its powerful arms, combined with its pack mentality, make it a formidable foe. Adventurers who venture into the dense tropical forests of [[Majara]] should be aware of this creature and be prepared to defend themselves if necessary.

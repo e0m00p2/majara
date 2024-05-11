@@ -15,7 +15,7 @@ The cause of Anchor Factor isn't 100% certain but [[Gnomes]] have submitted seve
 
 ## Transmissionvectors
 
-Generally the condition is transmitted at the natural death of one Anchor host immediately to the birth of the next Anchor host. How Anchor hosts are chosen by the Anchor Factor is currently unknown, however there is at least one important condition that appears to remain true. Only sentient races that have existed on Majara races for several generations can be chosen by an Anchor Factor.
+Generally the condition is transmitted at the natural death of one Anchor host immediately to the birth of the next Anchor host. How Anchor hosts are chosen by the Anchor Factor is currently unknown, however there is at least one important condition that appears to remain true. Only sentient races that have existed on [[Majara]] races for several generations can be chosen by an Anchor Factor.
 
 The Anchor Factor is never naturally infectious, but it can be "spread" to some degree. By the intent of the host, some or all of the Anchor Factor can be distributed to another sentient being or even more rarely into a liquid, solid, or gaseous form that can infect any it comes in contact with. However, for intents of the passing of Anchor Factor onto another host, the original host's lifespan remains the point at which all of the Anchor Factor evaporates and is reborn into a new host.
 

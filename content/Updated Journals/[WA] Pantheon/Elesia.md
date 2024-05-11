@@ -2,7 +2,8 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.QHnfcfcumyGSx4aj.JournalEntryPage.uSh0pLhe6tvrXS2d
-tags: []
+tags:
+  - Beastlands
 ---
 
 # Article
@@ -48,7 +49,7 @@ Quotes
 
 ## Likesdislikes
 
-Elesia has a great dislike for Undead due to the fact that they don't grow and breed. Their existence offends her sensibilities and she encourages her faithful to destroy them whenever possible. Despite her attention however they continue to manifest in [[Updated Journals/[WA] Countries/Barban|Barban]].
+Elesia has a great dislike for Undead due to the fact that they don't grow and breed. Their existence offends her sensibilities and she encourages her faithful to destroy them whenever possible. Despite her attention however they continue to manifest in [[Barban|Barban]].
 
 * * *
 

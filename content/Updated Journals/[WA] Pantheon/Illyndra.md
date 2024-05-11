@@ -2,35 +2,35 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.mVsh1vVa7KYyetsK.JournalEntryPage.fxKKkpzMGtfhhoev
-tags: []
+tags:
+  - Ysgard
 ---
 
 # Article
   
-
 ### Overview
 
-**Title:** Illyndra, the Moonlit Guardian  
-**Domains:** Moonlight, Dance, Beauty, Martial Prowess  
-**Symbol:** A silver longsword within a crescent moon against a starry background  
+**Title:** Illyndra, the Starlit Guardian  
+**Domains:** Starlight, Dance, Beauty, Martial Prowess  
+**Symbol:** A silver longsword within a constellation against a starry background  
 **Alignment:** Chaotic Good  
-**Followers:** Dark [[Elf|Elves]], Dancers, Musicians, Warriors, Strategists  
+**Followers:** Dark Elves, Dancers, Musicians, Warriors, Strategists  
 
 ### Description
 
-Illyndra, known as the Moonlit Guardian, is a revered [[Deity]] in the pantheon of the dark [[Elf|Elves]] of **Majara**. She embodies the grace of dance, the tranquility of moonlight, and the disciplined strength of martial prowess, guiding her followers towards harmony and justice.
+Illyndra, known as the Starlit Guardian, is a revered [[Deity]] in the pantheon of the dark Elves of **[[Majara]]**. She embodies the grace of dance, the tranquility of starlight, and the disciplined strength of martial prowess, guiding her followers towards harmony and justice.
 
 ### History and Lore
 
-Legend tells of Illyndra as a dark [[Elf]] who mastered the art of swordplay and dance, using her skills to protect and uplift her people. Her ascension to divinity symbolizes the ideal balance between physical prowess and artistic beauty.
+Legend tells of Illyndra as a dark Elf who mastered the art of swordplay and dance, using her skills to protect and uplift her people. Her ascension to divinity symbolizes the ideal balance between physical prowess and artistic beauty.
 
 ### Clergy and Temples
 
-The clergy, known as the Moonlit Blades, embody Illyndra’s teachings of balance. Temples dedicated to Illyndra are places of both martial training and artistic expression, often located in serene settings under the moon’s gaze.
+The clergy, known as the Starlit Blades, embody Illyndra’s teachings of balance. Temples dedicated to Illyndra are places of both martial training and artistic expression, often located in serene settings under the stars' gaze.
 
 ### Festivals
 
-The Festival of Moonlit Steel is a major celebration in her honor, featuring sword dances and music, emphasizing the ethical use of martial skills and the pursuit of harmony.
+The Festival of Starlit Steel is a major celebration in her honor, featuring sword dances and music, emphasizing the ethical use of martial skills and the pursuit of harmony.
 
 ### Relationship with Other Deities
 

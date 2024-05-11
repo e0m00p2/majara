@@ -5,7 +5,7 @@ foundryId: JournalEntry.NZHIIcuR9NcMjms4.JournalEntryPage.uVxQjwpbizolpWzc
 tags: []
 ---
 # Article
-New Graffoc is the capital city of [[Updated Journals/[WA] Countries/Barban|Barban]], located in a magical world where the use of magic is highly valued. People without magic, referred to as munds, are often pitied and viewed as inferior. The city is ruled by the [[Archmage]] [[Conifer Hythirian]], although most of the power is delegated to various civic guilds, making it a city run by a guild council of sorts.
+New Graffoc is the capital city of [[Barban|Barban]], located in a magical world where the use of magic is highly valued. People without magic, referred to as munds, are often pitied and viewed as inferior. The city is ruled by the [[Archmage]] [[Conifer Hythirian]], although most of the power is delegated to various civic guilds, making it a city run by a guild council of sorts.
 
 Joining a guild is highly encouraged, as those who are not part of a guild are charged more for goods and services and are paid less for their labor. This makes the guild system an integral part of life in New Graffoc. The various guilds range from wizardry and combat magic to bardic performance and scholarship, catering to a variety of interests and skills.
 
@@ -100,7 +100,7 @@ The infrastructure of New Graffoc consists of:
 
 *   Spellstream Aqueducts: A system of overhead aqueducts that use magic to transport an endless supply of water throughout the city.
 *   Glyphwall District: A section of the city that is dedicated to the wizarding community and contains the wizard's guild halls, wizard shops, wizard-only taverns, wizard housing, and other facilities. The district is home to Arcane Libraries, research and development centers, and [[The Glyphwall]], a wall covered in arcane runes that serves as a communication hub for the wizarding community.
-*   Song-gates: Large arches around the city that function as portals to 9 cities in [[Updated Journals/[WA] Countries/Barban|Barban]]. The gates are powered by a combination of bardic and wizardly magic and allow for easy travel between the cities.
+*   Song-gates: Large arches around the city that function as portals to 9 cities in [[Barban|Barban]]. The gates are powered by a combination of bardic and wizardly magic and allow for easy travel between the cities.
 *   Whisper Walls: Walls covered with arcane glyphs that allow for telepathic communication between people touching the same glyph at different locations.
 *   Plagueward Spires: Magical towers built into the city walls that create a magical barrier against vermin, including many bloodsucking insects.
 

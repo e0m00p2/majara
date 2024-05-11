@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-"You see, it doesn't matter where you're from. It doesn't matter what you are. We don't care about how you look, what gender you are, or your age. We care about if you're strong and if your brave enough to use that strength for the kingdom. This is [[Updated Journals/[WA] Countries/Scourre|Scourre]] and the only thing we discriminate against is weakness."
+"You see, it doesn't matter where you're from. It doesn't matter what you are. We don't care about how you look, what gender you are, or your age. We care about if you're strong and if your brave enough to use that strength for the kingdom. This is [[Scourre|Scourre]] and the only thing we discriminate against is weakness."
 
 \-Algeat Heydon
 
@@ -64,7 +64,7 @@ With a body toned by constant fighting, Algeat is strong, tough, and scarred.
 
 ## History
 
-Algeat Heydon was nothing special. In fact, she started as a gladiator slave. But the thing about [[Updated Journals/[WA] Countries/Scourre|Scourre]] is, the culture doesn't care about your origins or bloodline. Just your strength. 
+Algeat Heydon was nothing special. In fact, she started as a gladiator slave. But the thing about [[Scourre|Scourre]] is, the culture doesn't care about your origins or bloodline. Just your strength. 
 
 Algeat fought her way up from the bottom. Slaveborn, she knew no other life but fighting. Within a dozen years of her first arena fight, she was the champion of all of [[Scourre]]. And on the day she was granted a boon by the Warlord **Tolomy Soulen** previous leader of [[Scourre]], she demanded a bout of single combat for leadership of the kingdom. Surrounded by the other Warleaders and a crowd of bloodthirsty fans, Tolomy dared not refuse. 
 

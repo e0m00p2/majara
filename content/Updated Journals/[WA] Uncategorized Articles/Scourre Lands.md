@@ -6,4 +6,4 @@ tags: []
 ---
 
 # Article
-The lands claimed by the Kingdom of [[Updated Journals/[WA] Countries/Scourre|Scourre]].
+The lands claimed by the Kingdom of [[Scourre|Scourre]].
