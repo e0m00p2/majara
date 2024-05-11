@@ -8,6 +8,8 @@ tags: []
 # Article
 **Ellane, The Lady of Redemption**, also known as **The Mother of Redemption**, is a [[Deity]] in the **[[Majara]]** universe. She is a newly formed goddess who champions the cause of guiding sentient races towards righteousness and redemption. Ellane's teachings emphasize maternal care and guidance for all sentient beings.
 
+![[00003-2156127460.png]]
+
 ### Contents
 
 \[list\] \[\*\]1. Overview \[\*\]2. Origin and Nature \[\*\]3. Teachings and Worship \[\*\]4. Physical Appearance \[\*\]5. Influence and Legacy \[/list\]
