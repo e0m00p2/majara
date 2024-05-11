@@ -1,9 +1,9 @@
 ---
-title: "Henna Barren"
+title: Henna Barren
 icon: ":book:"
-aliases: "Henna Barren"
+aliases:
+  - Henna Barren
 foundryId: JournalEntry.dbDTvg6DUi2xRQUw
-tags:
-  - JournalEntry
+tags: []
 ---
 One of [[Jenny's Girls]]

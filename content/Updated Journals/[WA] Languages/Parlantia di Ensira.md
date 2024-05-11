@@ -1,11 +1,9 @@
 ---
-title: Article
 icon: ":sticky-note:"
 aliases:
   - Elvish
 foundryId: JournalEntry.OLc97gHplxbi59XV.JournalEntryPage.hw0SjLukIdv0rtbP
-tags:
-  - JournalEntryPage
+tags: []
 ---
 
 # Article

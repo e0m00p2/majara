@@ -2,8 +2,7 @@
 icon: ":sticky-note:"
 aliases: 
 foundryId: JournalEntry.lfpffEjwVmHVlM6C.JournalEntryPage.CUzIuBiyvRBNsba8
-tags:
-  - JournalEntryPage
+tags: []
 ---
 
 # Article

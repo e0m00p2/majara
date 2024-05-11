@@ -1,10 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.ME0yAsMx8Popw8UT.JournalEntryPage.NuPM9mfLZgiEtvCM
-tags:
-  - JournalEntryPage
+tags: []
 ---
 # Article
 Endlessly curious and inventive, these folk have a unique sense of humor. Whether their colorful outfits and odd hairstyles are a unique tradition or some ongoing prank is a matter of debate. Outsiders often underestimate them based on their eccentric appearance and behavior, to their chagrin.

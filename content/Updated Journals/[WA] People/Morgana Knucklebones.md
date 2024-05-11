@@ -1,11 +1,9 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: Side contents
+aliases:
+  - Side contents
 foundryId: JournalEntry.JJY8zk6ULDiQF5X3.JournalEntryPage.a52t3T0unTRnOEM0
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 
 # Side contents
@@ -13,7 +11,7 @@ General Details
 
 Eyes
 
-Wide, round, lavander
+Wide, round, lavender
 
 Hair
 
@@ -21,7 +19,7 @@ Long, wavy, white
 
 Skin
 
-Light lavander
+Light lavender
 
 Height
 

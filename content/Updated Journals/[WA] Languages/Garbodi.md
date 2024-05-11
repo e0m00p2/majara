@@ -1,11 +1,9 @@
 ---
-title: Article
 icon: ":sticky-note:"
 aliases:
   - Dwarvish
 foundryId: JournalEntry.DbBULMBbyyULqwDz.JournalEntryPage.UsSyCcHtOkpbaPir
-tags:
-  - JournalEntryPage
+tags: []
 ---
 
 # Article

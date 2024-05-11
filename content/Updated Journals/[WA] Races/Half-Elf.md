@@ -1,13 +1,10 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
 aliases:
   - Half-Elven
   - Half-Elves
 foundryId: JournalEntry.84s4XfYlqDy2sUc8.JournalEntryPage.vL8NNpZsEyC8mneJ
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 
 # Side contents

@@ -1,11 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.n7zHlTwylhsn4Yhd.JournalEntryPage.nHl3Th9NV3lTZbN3
 tags:
-  - JournalEntry
-  - JournalEntryPage
 ---
 
 # Havrosil

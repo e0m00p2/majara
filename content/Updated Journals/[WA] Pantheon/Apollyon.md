@@ -1,11 +1,8 @@
 ---
-title: Secrets
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.WJfpRNOxixHZ8Sdg.JournalEntryPage.1mUbhJ0aMEOmI6JQ
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 
 # Article

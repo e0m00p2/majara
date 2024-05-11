@@ -1,11 +1,8 @@
 ---
-title: Relationships
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.dVSSJZUQXS3zmrOC.JournalEntryPage.nScx8Bh3tq8O0DIB
-tags:
-  - JournalEntry
-  - JournalEntryPage
+tags: []
 ---
 
 

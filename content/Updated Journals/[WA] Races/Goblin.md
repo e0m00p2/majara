@@ -1,11 +1,8 @@
 ---
-title: Side contents
 icon: ":sticky-note:"
-aliases: []
+aliases: 
 foundryId: JournalEntry.InDtpYXRXL42qoke.JournalEntryPage.4VHQvRkIOBbXeh9x
 tags:
-  - JournalEntry
-  - JournalEntryPage
 ---
 
 # Goblin

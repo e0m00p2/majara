@@ -1,12 +1,10 @@
 ---
-title: Article
 icon: ":sticky-note:"
 aliases:
   - Dwarves
   - Dwarven
 foundryId: JournalEntry.QpNpbV4vUdmaYhfi.JournalEntryPage.tQgsVIRbxrgyBkF6
 tags:
-  - JournalEntryPage
 ---
 Language
 
