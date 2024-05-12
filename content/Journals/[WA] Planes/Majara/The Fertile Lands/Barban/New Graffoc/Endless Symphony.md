@@ -4,10 +4,6 @@ aliases:
 foundryId: JournalEntry.On6mUZk9iT3Mdae7.JournalEntryPage.lae5JPmof6Cq3Usg
 tags: []
 ---
-
-
-
-
 # Article
 The Endless Symphony is a guild of bards and musicians in the city of [[New Graffoc|New Graffoc]]. Led by the charismatic Bard Lord [[Calliope Moonfall]], the guild is known for its exceptional talent and entertaining performances. The members of the Endless Symphony are all highly skilled musicians, singers, and performers who work together to bring the beauty of music to the people of [[New Graffoc]]. Whether it's through lively street performances, grand concerts in the city's many theaters, or private performances for royalty and dignitaries, the Endless Symphony never fails to leave its audience spellbound.
 
