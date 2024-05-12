@@ -1,8 +1,12 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.DrGINB73Aj0zhrHd.JournalEntryPage.nfrWAV7x2WaRlE72
-tags: []
+Class: 
+Race: Deity
+Threat Level: Infinite
+Role: 
+Attitude: 
+Intent: 
+Status: Dead
 ---
 
 # Article

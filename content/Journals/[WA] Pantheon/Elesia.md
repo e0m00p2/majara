@@ -1,9 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.QHnfcfcumyGSx4aj.JournalEntryPage.uSh0pLhe6tvrXS2d
-tags:
-  - Beastlands
+Class: 
+Race: Deity
+Threat Level: "25"
+Role: Nature
+Attitude: Hostile
+Intent: Expansion
+Status: Healthy
+Location: "[[Beastlands]]"
 ---
 
 # Article

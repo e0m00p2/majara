@@ -1,8 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.Wl0GqjROFGXADMLN.JournalEntryPage.Lbc1WwJS5XvPcEXF
-tags: []
+Class: 
+Race: Deity
+Threat Level: Infinite
+Role: Healer
+Attitude: Friendly
+Intent: Nurture
+Status: Healthy
+Location: "[[Journals/[WA] Planes/Majara/Majara|Majara]]"
 ---
 
 # Article

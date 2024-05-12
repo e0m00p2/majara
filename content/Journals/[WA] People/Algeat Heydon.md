@@ -1,8 +1,12 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.XoxENiG2qJmv69HZ.JournalEntryPage.k8VWACGRnmS1BK9T
-tags: []
+Class: Fighter
+Race: Human
+Threat Level: "15"
+Role: General
+Attitude: Hostile
+Intent: Conquest
+Status: Healthy
 ---
 
 # Article

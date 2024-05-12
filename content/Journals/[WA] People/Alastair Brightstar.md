@@ -1,8 +1,12 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.yrkrF5wfJaOhkhzA.JournalEntryPage.kdg3dVGTJ5OHDVXi
-tags: []
+Class: Wizard
+Race: Half-Elf
+Threat Level: "6"
+Role: Civic
+Attitude: Neutral
+Intent: National
+Status: Dead
 ---
 
 # Article

@@ -1,8 +1,12 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.T4Gej1lQCjnBQnui.JournalEntryPage.yM7t3n7yW9AnOCwi
-tags: []
+Class: Fighter
+Race: Human
+Threat Level: "2"
+Role: Warrior
+Attitude: Friendly
+Intent: Nurture
+Status: Healthy
 ---
 
 # Side contents

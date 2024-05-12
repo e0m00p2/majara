@@ -1,8 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.Kg3uoWbagaxesP6Y.JournalEntryPage.3seFAgSPsD9XjkCO
-tags:
+Class: Bard
+Race: Human
+Threat Level: "8"
+Role: Entertainer
+Attitude: Neutral
+Intent: National
+Status: Healthy
+Location: "[[New Graffoc]]"
 ---
 
 # Article

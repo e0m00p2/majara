@@ -1,9 +1,11 @@
 ---
 Class: 
 Race: 
-Threat: 
-Alias: 
+Threat Level: 
+aliases: 
 Role: 
 Attitude: 
 Intent: 
+Status: 
+Location: []
 ---

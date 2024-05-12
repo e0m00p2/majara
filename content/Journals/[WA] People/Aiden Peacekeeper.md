@@ -1,8 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.b9UDJB4NwHbX6WMa.JournalEntryPage.NwK0MZKQPoukjzJb
-tags: []
+Class: Monk
+Race: Human
+Threat Level: "10"
+Role: Leader
+Attitude: Neutral
+Intent: National
+Status: Healthy
+Location: Liosan
 ---
 
 # Article

@@ -2,6 +2,17 @@
 tags:
   - Shadowfell
   - Feywild
+Class: 
+Race: Deity
+Threat Level: "20"
+aliases: 
+Role: Trickster
+Attitude: Friendly
+Intent: Manipulation
+Status: Healthy
+Location:
+  - "[[Shadowfell]]"
+  - "[[Feywild]]"
 ---
 **Faeris Shadowwhisper**, known as the *Chaotic Trickster* and *Master of Whispers*, is a mysterious and mischievous fae [[Deity]] within the pantheon. Originating from the depths of the [[Feywild]], Faeris embodies the chaotic essence of the realm, delighting in unpredictability, chaos, and the occasional upheaval of order.
 

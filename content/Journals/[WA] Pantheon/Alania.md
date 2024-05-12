@@ -1,9 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.OGOq5Pi8lux5vjHg.JournalEntryPage.OtYZttIFVWJYLQoe
-tags:
-  - Elysium
+Class: 
+Race: Deity
+Threat Level: "25"
+Role: Healer
+Attitude: Neutral
+Intent: Manipulation
+Status: Healthy
+Location: "[[Elysium]]"
 ---
 
 # Article

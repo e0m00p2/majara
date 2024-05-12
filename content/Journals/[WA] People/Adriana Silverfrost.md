@@ -1,10 +1,11 @@
 ---
-icon: ":sticky-note:"
-aliases: 
-foundryId: JournalEntry.EJfey5Sgf9qJMO50.JournalEntryPage.MIbSiep4qGiGKyHi
-tags:
-  - JournalEntry
-  - JournalEntryPage
+Class: Bard
+Race: Human
+Threat Level: "3"
+Role: 
+Attitude: Neutral
+Intent: National
+Status: Dead
 ---
 
 # Article

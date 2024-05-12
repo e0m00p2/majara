@@ -1,9 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.mVsh1vVa7KYyetsK.JournalEntryPage.fxKKkpzMGtfhhoev
-tags:
-  - Ysgard
+Class: 
+Race: Deity
+Threat Level: "20"
+Role: Leader
+Attitude: Neutral
+Intent: Nurture
+Status: Healthy
+Location: "[[Ysgard]]"
 ---
 
 # Article

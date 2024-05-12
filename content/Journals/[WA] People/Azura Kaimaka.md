@@ -1,8 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.9pCt07WvFQZ0lAB3.JournalEntryPage.g9O6iJYeUqbyq8cK
-tags: []
+Class: Bard
+Race: Human
+Threat Level: "8"
+Role: Leader
+Attitude: Neutral
+Intent: National
+Status: Dead
+Location: "[[Datlas]]"
 ---
 
 # Side contents

@@ -1,9 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.Xs8wAYR7sPBn6Xfy.JournalEntryPage.k0R0KJoZBwebmwOn
-tags:
-  - Arborea
+Class: 
+Race: Deity
+Threat Level: "20"
+Role: Trickster
+Attitude: Neutral
+Intent: 
+Status: Healthy
+Location: "[[Arborea]]"
 ---
 
 # Article

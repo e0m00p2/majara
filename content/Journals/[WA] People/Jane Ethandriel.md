@@ -1,8 +1,13 @@
 ---
-icon: ":sticky-note:"
+Class: Sorcerer
+Race: Aasimar
+Threat Level: "3"
 aliases: 
-foundryId: JournalEntry.z5EBcAXjWI4hkfOe.JournalEntryPage.e4ArzcQExPzhSxjG
-tags:
+Role: Leader
+Attitude: Hostile
+Intent: Manipulation
+Status: Dead
+Location: Nine Hells
 ---
 
 # Article

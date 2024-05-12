@@ -1,9 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.WJfpRNOxixHZ8Sdg.JournalEntryPage.1mUbhJ0aMEOmI6JQ
-tags:
-  - Pandemonium
+Class: 
+Race: Deity
+Threat Level: "22"
+Role: Destroyer
+Attitude: Hostile
+Intent: Destruction
+Status: Cursed
+Location: "[[Pandemonium]]"
 ---
 
 # Article

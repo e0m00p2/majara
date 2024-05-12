@@ -1,9 +1,13 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.q3ueQwN6lU1szttO.JournalEntryPage.rfb16VkuklNkb75K
-tags:
-  - MountCelestia
+Class: 
+Race: Deity
+Threat Level: "20"
+Role: Healer
+Attitude: Friendly
+Intent: Nurture
+Status: Healthy
+Location: "[[Mount Celestia]]"
 ---
 # Article
 Lumina is a goddess of mercy and compassion who is revered by High Cleric [[Rowan Dawnstar]] and her followers. Lumina is said to embody the qualities of kindness, compassion, and love, and is often invoked by those in need of healing or comfort. Her followers believe that by serving Lumina and spreading her teachings, they can help bring peace and happiness to the world.

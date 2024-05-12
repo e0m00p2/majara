@@ -1,10 +1,15 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.UtdaeDiRiRWUiK8F.JournalEntryPage.ZH1HXLQ2wvVe9q02
-tags:
-  - Feywild
-  - Arborea
+Class: 
+Race: Deity
+Threat Level: "28"
+Role: Trickster
+Attitude: Friendly
+Intent: Exploration
+Status: Healthy
+Location:
+  - "[[Feywild]]"
+  - "[[Arborea]]"
 ---
 
 # Side contents

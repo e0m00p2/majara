@@ -1,8 +1,12 @@
 ---
-icon: ":sticky-note:"
 aliases: 
-foundryId: JournalEntry.jlXk8ttabIspCCk1.JournalEntryPage.95CaVJvI96vWBz5w
-tags: []
+Class: Wizard
+Race: Human
+Threat Level: "4"
+Role: 
+Attitude: Neutral
+Intent: Knowledge
+Status: Dead
 ---
 
 # Article
