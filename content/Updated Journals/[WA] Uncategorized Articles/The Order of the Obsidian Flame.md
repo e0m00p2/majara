@@ -8,7 +8,7 @@ tags: []
 ---
 
 # Article
-The official Guard Guild of [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]], The Obsidian Flame, has a long history dating back to the early days of the city's establishment. It was supported by the original mages guild, "[[The Eldest Arcane]]," and was given enchanted lanterns that could be fueled by a special potion that burned with a black flame. This black flame had the ability to reveal necromancy and compulsion magic, as well as other hidden things, making it an invaluable tool for the Guard in their mission to keep the city safe and secure.
+The official Guard Guild of [[New Graffoc|New Graffoc]], The Obsidian Flame, has a long history dating back to the early days of the city's establishment. It was supported by the original mages guild, "[[The Eldest Arcane]]," and was given enchanted lanterns that could be fueled by a special potion that burned with a black flame. This black flame had the ability to reveal necromancy and compulsion magic, as well as other hidden things, making it an invaluable tool for the Guard in their mission to keep the city safe and secure.
 
 [[Guildmaster]] [[Zhu Cheng]] has been at the helm of the Obsidian Flame for the last ten years, and has made it his mission to enhance the skills of the Guard and maintain a higher standard than his predecessors. Under his leadership, the Guard has become a well-respected and highly skilled organization, dedicated to protecting the citizens of [[New Graffoc]] from any threats that may arise. The Obsidian Flame is comprised of members with varying levels of experience and skill, ranging from rank 1 to rank 10.
 

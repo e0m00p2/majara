@@ -6,9 +6,9 @@ tags: []
 ---
 
 # Article
-**Komodo - A Precursor Race of [[The Fertile Lands]]**
+**Komodo - A Precursor Race of [[Updated Journals/[WA] Planes/Majara/The Fertile Lands]]**
 
-The Komodo were one of the five dominant races in [[The Fertile Lands]] before [[The Great Growth]] event destroyed most of them, leaving only fragments. The Komodo, along with the other precursor races, are now revered for their ancient knowledge and technology. The Komodo, in particular, were known for their advancements in medicine, poisoncraft, and wild magic.
+The Komodo were one of the five dominant races in [[Updated Journals/[WA] Planes/Majara/The Fertile Lands]] before [[The Great Growth]] event destroyed most of them, leaving only fragments. The Komodo, along with the other precursor races, are now revered for their ancient knowledge and technology. The Komodo, in particular, were known for their advancements in medicine, poisoncraft, and wild magic.
 
 **Appearance**
 

@@ -1,1 +1,1 @@
-The material plane of this universe, commonly also used to refer to [[The Fertile Lands]] in which most of the civilized races make their Countries.
+The material plane of this universe, commonly also used to refer to [[Updated Journals/[WA] Planes/Majara/The Fertile Lands]] in which most of the civilized races make their Countries.

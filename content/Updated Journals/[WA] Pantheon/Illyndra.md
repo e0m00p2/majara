@@ -14,15 +14,15 @@ tags:
 **Domains:** Starlight, Dance, Beauty, Martial Prowess  
 **Symbol:** A silver longsword within a constellation against a starry background  
 **Alignment:** Chaotic Good  
-**Followers:** Dark Elves, Dancers, Musicians, Warriors, Strategists  
+**Followers:** [[Dark Elf|Dark Elves]], Dancers, Musicians, Warriors, Strategists  
 
 ### Description
 
-Illyndra, known as the Starlit Guardian, is a revered [[Deity]] in the pantheon of the dark Elves of **[[Majara]]**. She embodies the grace of dance, the tranquility of starlight, and the disciplined strength of martial prowess, guiding her followers towards harmony and justice.
+Illyndra, known as the Starlit Guardian, is a revered [[Deity]] in the pantheon of the [[Dark Elf|Dark Elves]] of **[[Majara]]**. She embodies the grace of dance, the tranquility of starlight, and the disciplined strength of martial prowess, guiding her followers towards harmony and justice.
 
 ### History and Lore
 
-Legend tells of Illyndra as a dark Elf who mastered the art of swordplay and dance, using her skills to protect and uplift her people. Her ascension to divinity symbolizes the ideal balance between physical prowess and artistic beauty.
+Legend tells of Illyndra as a [[Dark Elf]] who mastered the art of swordplay and dance, using her skills to protect and uplift her people. Her ascension to divinity symbolizes the ideal balance between physical prowess and artistic beauty.
 
 ### Clergy and Temples
 

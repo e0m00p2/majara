@@ -2,7 +2,7 @@
 tags: []
 ---
 
-The **Feywild** is a plane of existence parallel to the Material Plane, known for its whimsical and mystical nature. It is a realm of untamed wilderness, vibrant magic, and the home of the fey creatures, including elves and other faeries. This article provides an overview of the Feywild, its characteristics, inhabitants, and notable locations.
+The **Feywild** is a plane of existence parallel to the Material Plane, known for its whimsical and mystical nature. It is a realm of untamed wilderness, vibrant magic, and the home of the fey creatures, including [[Elf|Elves]] and other faeries. This article provides an overview of the Feywild, its characteristics, inhabitants, and notable locations.
 
 ## Characteristics
 
@@ -16,7 +16,7 @@ The **Feywild** is a plane of existence parallel to the Material Plane, known fo
 
 The Feywild is home to a diverse array of fey creatures, including:
 
-- **Gnomes**: Gnomes have a strong connection to the Feywild and often maintain settlements within its enchanted forests.
+- **[[Gnomes]]**: [[Gnomes]] have a strong connection to the Feywild and often maintain settlements within its enchanted forests.
   
 - **Sprites and Pixies**: Tiny, mischievous creatures such as sprites and pixies are common inhabitants of the Feywild, flitting among the trees and spreading magic wherever they go.
 

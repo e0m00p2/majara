@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-The scroll of law for all of [[Barban|Barban]]. There are several copies, magically made, but the original remains in [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]]. As laws are changed and added, material is added to the scroll wizardry, though old laws are never removed so a record of what came before can be maintained.
+The scroll of law for all of [[Barban|Barban]]. There are several copies, magically made, but the original remains in [[New Graffoc|New Graffoc]]. As laws are changed and added, material is added to the scroll wizardry, though old laws are never removed so a record of what came before can be maintained.
 
 
 # Side contents

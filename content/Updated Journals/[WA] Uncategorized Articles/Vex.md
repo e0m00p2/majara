@@ -9,4 +9,4 @@ tags: []
 
 # Vex
 
-A young girl rescued from corrupted slave spells in [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]] by the [[Softpaw Guild]]
+A young girl rescued from corrupted slave spells in [[New Graffoc|New Graffoc]] by the [[Softpaw Guild]]

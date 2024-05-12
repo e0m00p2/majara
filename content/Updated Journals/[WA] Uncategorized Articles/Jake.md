@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-Bright Flame Jake is a highly skilled and respected member ofThe Order of the Obsidian Flame, the official guard guild of [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]]. He is known for his quick thinking and leadership abilities, and has risen through the ranks of the guild to become a trusted Lieutenant. Jake's expertise in both magic and combat have made him a valuable asset to the Obsidian Flame, and he is often called upon to lead his fellow members on challenging missions.
+Bright Flame Jake is a highly skilled and respected member ofThe Order of the Obsidian Flame, the official guard guild of [[New Graffoc|New Graffoc]]. He is known for his quick thinking and leadership abilities, and has risen through the ranks of the guild to become a trusted Lieutenant. Jake's expertise in both magic and combat have made him a valuable asset to the Obsidian Flame, and he is often called upon to lead his fellow members on challenging missions.
 
 In his personal life, Bright Flame Jake is a confident and outgoing individual, who enjoys spending time with his friends and family. Despite his busy schedule, he always finds time to volunteer in his community particularly among Munds, and is known for his kind heart and willingness to help others. His charisma and leadership abilities have made him popular among his fellow members of the Obsidian Flame, and he is widely admired for his dedication to his duties and his commitment to protecting the citizens of [[New Graffoc]].
 

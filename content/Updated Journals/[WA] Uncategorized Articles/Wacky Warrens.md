@@ -6,4 +6,4 @@ tags: []
 ---
 
 # Article
-An odd shop that exists somewhere between the feywild and the mortal realm, moving as it pleases between locations.
+An odd shop that exists somewhere between the [[Feywild]] and the mortal realm, moving as it pleases between locations.

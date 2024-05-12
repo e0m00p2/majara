@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-Flame Grumpy Greg is a seasoned veteran within the [[The Order of the Obsidian Flame]] , a member of the Guard Guild of [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]] . He has been a member of the organization for over 8 years and holds the rank of Flame (Sergeant). Despite his gruff exterior and somewhat surly demeanor, Greg is highly respected by his peers and is known for his unwavering dedication to his duty.
+Flame Grumpy Greg is a seasoned veteran within the [[The Order of the Obsidian Flame]] , a member of the Guard Guild of [[New Graffoc|New Graffoc]] . He has been a member of the organization for over 8 years and holds the rank of Flame (Sergeant). Despite his gruff exterior and somewhat surly demeanor, Greg is highly respected by his peers and is known for his unwavering dedication to his duty.
 
 Greg is a tall and imposing figure, with broad shoulders and a muscular build. He has a rough, gravelly voice and is often seen scowling or frowning. However, despite his tough exterior, Greg is a softie at heart and has a deep love for his city and its citizens. He has an unshakable sense of purpose and is not afraid to put himself in harm's way to protect those he values.
 

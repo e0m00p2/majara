@@ -25,7 +25,7 @@ Gnomes were very small compared to most other races and, with an average height 
 
 While halflings were commonly said to resemble short humans, gnomes were more comparable with [[Elf|Elves]], with whom they shared pointed ears and high cheekbones, or even [[Dwarf|Dwarves]], due to their tendency to grow beards and live underground. Many gnomes had a more feral appearance than either, however, with hair that often sprouted from their heads in odd directions.
 
-The skin of gnomes ran in hue from reddish tans to earthy browns or even shades of gray, with exact hue somewhat dependent upon the ethnic origin of a gnome. Similarly, gnomish hair varied wildly in color from blond and brown to more exotic colors like white, orange, or even green. Gnomish eyes were often—particularly in individuals who were native to the Feywild—glittering black\[9\] or blue, although more natural eye colors were also known to the race.
+The skin of gnomes ran in hue from reddish tans to earthy browns or even shades of gray, with exact hue somewhat dependent upon the ethnic origin of a gnome. Similarly, gnomish hair varied wildly in color from blond and brown to more exotic colors like white, orange, or even green. Gnomish eyes were often—particularly in individuals who were native to the [[Feywild]]—glittering black\[9\] or blue, although more natural eye colors were also known to the race.
 
 * * *
 
@@ -37,7 +37,7 @@ Like many of the races of [[Majara]], Gnomes have excellent darkvision, being ab
 
 ## Genetics
 
-Born from a pile of Feywild gemstones and a joke from [[Vel Tuck Entasida]], the King and/or Queen of Gnome gods, gnome reproduction does not much resemble the breeding of natural races. Instead, when ready to have a child, a Gnome will acquire a Feywild gemstone, either personally or via the Birthing Vault, a location found in every major Gnomish city. 
+Born from a pile of [[Feywild]] gemstones and a joke from [[Vel Tuck Entasida]], the King and/or Queen of Gnome gods, gnome reproduction does not much resemble the breeding of natural races. Instead, when ready to have a child, a Gnome will acquire a [[Feywild]] gemstone, either personally or via the Birthing Vault, a location found in every major Gnomish city. 
 
 Once acquired, a gnome will spend years speaking to this gemstone in day to day life about their interests and what they are doing, showing and telling good jokes and planned pranks. Over time, the gemstone will change shape as if sculpted by a master craftsman into the form of a tiny gnome. At a particularly good joke or interesting discovery, the gemstone shell will shatter explosively (birth is a dangerous event) leaving behind gemstone fragments and a baby gnome.
 

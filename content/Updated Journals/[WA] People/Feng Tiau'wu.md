@@ -6,4 +6,4 @@ tags: []
 ---
 
 # Article
-Five year champion of the Colosseum footraces, Feng is quite popular and well known in [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]].
+Five year champion of the Colosseum footraces, Feng is quite popular and well known in [[New Graffoc|New Graffoc]].

@@ -69,7 +69,7 @@ The gnome singlehanded responsible for the [[Goblin]] Menace, called many things
 
 To be fair, they're not all wrong.
 
-Matilda was born before [[The Great Growth]], one of the first of the [[Gnomes]] to make their way to the material plane from the feywild. Absolutely enthralled by this place and its stable rules and magics, she set out to learn them all, starting with alchemy. And she's still working on it to this day, so far as anyone can tell. Its truely uncertain how many odd creatures can be blamed on Matilda alone or the other generations of experimenting wizards, [[Gnomes]], alchemists, and inventors. Most people agree, probably half and half.
+Matilda was born before [[The Great Growth]], one of the first of the [[Gnomes]] to make their way to the material plane from the [[Feywild]]. Absolutely enthralled by this place and its stable rules and magics, she set out to learn them all, starting with alchemy. And she's still working on it to this day, so far as anyone can tell. Its truely uncertain how many odd creatures can be blamed on Matilda alone or the other generations of experimenting wizards, [[Gnomes]], alchemists, and inventors. Most people agree, probably half and half.
 
 At this point in time she is the minder of "[[The Wacky Warrens]]"
 

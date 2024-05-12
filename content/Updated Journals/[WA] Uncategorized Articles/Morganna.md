@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-Torch Morganna is a highly respected member of [[The Order of the Obsidian Flame]] , the official guard guild of [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]]. Despite her low rank within the guild, she is known for her level-headed approach to her duties and her unwavering commitment to protecting the citizens of the city. Her expertise in both magic and combat have made her a valuable asset to the Obsidian Flame, and she is often called upon to take on the most challenging of tasks.
+Torch Morganna is a highly respected member of [[The Order of the Obsidian Flame]] , the official guard guild of [[New Graffoc|New Graffoc]]. Despite her low rank within the guild, she is known for her level-headed approach to her duties and her unwavering commitment to protecting the citizens of the city. Her expertise in both magic and combat have made her a valuable asset to the Obsidian Flame, and she is often called upon to take on the most challenging of tasks.
 
 In her personal life, Torch Morganna is a solitary figure, preferring to spend her free time practicing her magic and honing her combat skills. Despite her reserved nature, she has a deep respect for her fellow members of the Obsidian Flame and is always willing to lend a hand when needed. She is known for her quiet wisdom and her ability to see through any situation to find the best solution.
 

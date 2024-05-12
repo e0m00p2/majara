@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Article
-A somewhat playful girl who seems young for her role as [[Guildmaster]], until one remembers that [[Half-Elf|Half-Elves]] don't age as visibly as humans do. She's more than willing to capitalize on such misunderstandings however and uses her particular talents at magic, which she feels no need to explain the source of, to further distract males and females with shapeshifting. Despite this however, she takes her role as [[Guildmaster]] very seriously and has worked hard to advance [[The Black Cats]] in [[Updated Journals/[WA] Uncategorized Articles/New Graffoc|New Graffoc]].
+A somewhat playful girl who seems young for her role as [[Guildmaster]], until one remembers that [[Half-Elf|Half-Elves]] don't age as visibly as humans do. She's more than willing to capitalize on such misunderstandings however and uses her particular talents at magic, which she feels no need to explain the source of, to further distract males and females with shapeshifting. Despite this however, she takes her role as [[Guildmaster]] very seriously and has worked hard to advance [[The Black Cats]] in [[New Graffoc|New Graffoc]].
 
 
 # Side contents

@@ -43,7 +43,7 @@ Finally, there are various smaller organizations and groups, such as artisans' g
 
 ## History
 
-Aelar and Calantha led the construction of Sanctum and its surrounding lands, working closely with the local people to create a city that was safe, prosperous, and supportive of all its residents. Their vision of a city that honored [[Lord Death]] and encouraged its residents to live life to the fullest and to seek peace and understanding in all things, continues to shape the culture of Sanctum to this day. The city has grown into a major center of trade and commerce, attracting people from all over [[The Fertile Lands]] who come to learn from its wise leaders, enjoy its many festivals and celebrations, and take part in its thriving markets and trade fairs. Despite its growth, Sanctum remains a deeply religious city, with the Order of the Grave playing a central role in the lives of its residents
+Aelar and Calantha led the construction of Sanctum and its surrounding lands, working closely with the local people to create a city that was safe, prosperous, and supportive of all its residents. Their vision of a city that honored [[Lord Death]] and encouraged its residents to live life to the fullest and to seek peace and understanding in all things, continues to shape the culture of Sanctum to this day. The city has grown into a major center of trade and commerce, attracting people from all over [[Updated Journals/[WA] Planes/Majara/The Fertile Lands]] who come to learn from its wise leaders, enjoy its many festivals and celebrations, and take part in its thriving markets and trade fairs. Despite its growth, Sanctum remains a deeply religious city, with the Order of the Grave playing a central role in the lives of its residents
 
 * * *
 
