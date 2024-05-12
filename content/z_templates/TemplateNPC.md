@@ -1,0 +1,9 @@
+---
+Class: 
+Race: 
+Threat: 
+Alias: 
+Role: 
+Attitude: 
+Intent: 
+---
