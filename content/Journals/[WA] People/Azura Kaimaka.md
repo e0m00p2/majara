@@ -1,14 +1,4 @@
----
-aliases: 
-Class: Bard
-Race: Human
-Threat Level: "8"
-Role: Leader
-Attitude: Neutral
-Intent: National
-Status: Dead
-Location: "[[Datlas]]"
----
+
 
 # Side contents
 General Details

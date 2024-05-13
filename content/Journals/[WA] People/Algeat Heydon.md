@@ -1,13 +1,3 @@
----
-aliases: 
-Class: Fighter
-Race: Human
-Threat Level: "15"
-Role: General
-Attitude: Hostile
-Intent: Conquest
-Status: Healthy
----
 
 # Article
 "You see, it doesn't matter where you're from. It doesn't matter what you are. We don't care about how you look, what gender you are, or your age. We care about if you're strong and if your brave enough to use that strength for the kingdom. This is [[Scourre|Scourre]] and the only thing we discriminate against is weakness."

@@ -1,9 +1,3 @@
----
-icon: ":sticky-note:"
-aliases: 
-foundryId: JournalEntry.5iA3v0hkv4hDGI2i.JournalEntryPage.4XsmjOMVnDBRQqqf
-tags: []
----
 
 # Article
 Flame Grumpy Greg is a seasoned veteran within the [[The Order of the Obsidian Flame]] , a member of the Guard Guild of [[New Graffoc|New Graffoc]] . He has been a member of the organization for over 8 years and holds the rank of Flame (Sergeant). Despite his gruff exterior and somewhat surly demeanor, Greg is highly respected by his peers and is known for his unwavering dedication to his duty.

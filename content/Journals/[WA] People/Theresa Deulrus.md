@@ -1,9 +1,3 @@
----
-icon: ":sticky-note:"
-aliases: 
-foundryId: JournalEntry.YNpywwhu5ioi9yCj.JournalEntryPage.yBsM0d3A3HNB5Mve
-tags: []
----
 
 
 

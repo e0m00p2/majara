@@ -1,14 +1,3 @@
----
-aliases: 
-Class: Bard
-Race: Human
-Threat Level: "8"
-Role: Entertainer
-Attitude: Neutral
-Intent: National
-Status: Healthy
-Location: "[[New Graffoc]]"
----
 
 # Article
 Bard Lord Calliope Moonfall has made quite a name for himself in the bustling city of [[New Graffoc|New Graffoc]]. He is a prominent figure among the city's residents and is revered for his talent as an entertainer. As the leader of the [[Endless Symphony]] guild, Calliope has brought a new level of excellence to the art of music in the city. His concerts are attended by thousands and his soulful voice has the power to captivate audiences and bring them to their feet.

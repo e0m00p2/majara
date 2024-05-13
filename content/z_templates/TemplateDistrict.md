@@ -1,0 +1,9 @@
+---
+aliases: 
+Role: 
+Status: 
+Organization: 
+Population: 
+Location: 
+ConstructionDate:
+---

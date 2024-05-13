@@ -1,1 +1,0 @@
-A multidimensional space that warps time and shifts around many of the other planes.

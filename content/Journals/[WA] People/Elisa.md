@@ -1,9 +1,4 @@
----
-icon: ":sticky-note:"
-aliases: 
-foundryId: JournalEntry.Vc5jfHQIQdOPHNhY.JournalEntryPage.LGP6taAYL5RnQ2VA
-tags: []
----
+
 
 One of [[Jenny's Girls]]
 

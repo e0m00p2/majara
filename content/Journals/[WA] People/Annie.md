@@ -1,13 +1,3 @@
----
-aliases: 
-Class: Fighter
-Race: Human
-Threat Level: "2"
-Role: Warrior
-Attitude: Friendly
-Intent: Nurture
-Status: Healthy
----
 
 # Side contents
 General Details

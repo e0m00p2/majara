@@ -1,14 +1,15 @@
----
-aliases: 
-Class: Monk
-Race: Human
-Threat Level: "10"
-Role: Leader
-Attitude: Neutral
-Intent: National
-Status: Healthy
-Location: Liosan
----
+> [!infobox|right wikipedia]
+> # Name
+> [Aliases::]
+> ![[Image.png|cover hsmall]]
+> ###### Stats
+> [Class:: Monk]
+> [Race:: Human]
+> [Threat Level:: 10]
+> [Role:: Leader]
+> [Intent:: National]
+> [Location:: [[Liosan]]]
+> [Status:: Healthy]
 
 # Article
 Aiden Peacekeeper is the current High Regent of [[Liosan]], the capital city of the [[Liosan]] Kingdom. He is known for his unwavering commitment to preserving the peace and stability of the city and its people, and for his strong leadership skills. Aiden is a charismatic figure and is highly respected among the citizens of [[Liosan]] for his wisdom, fairness, and compassion. He is a deeply spiritual man, with a strong faith in [[Lord Death]], and is known to spend much of his time in meditation and reflection at the Monastery of the Grave. Despite his responsibilities as High Regent, Aiden is a humble and approachable man, and is beloved by the people of [[Liosan]] for his kindness and his genuine concern for their well-being.

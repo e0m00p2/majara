@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Side contents
+aliases: []
 Class: Inventor
 Race: Elf
 Threat Level: "15"
@@ -8,7 +7,7 @@ Role: Civic
 Attitude: Friendly
 Intent: Creator
 Status: Dead
-Location: []
+Location:
 ---
 ---
 # Article

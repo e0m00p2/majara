@@ -1,13 +1,4 @@
----
-aliases: 
-Class: Wizard
-Race: Human
-Threat Level: "4"
-Role: 
-Attitude: Neutral
-Intent: Knowledge
-Status: Dead
----
+
 
 # Article
 [[Guildmaster]] Alaric is known for his vast wealth of knowledge and his unyielding dedication to education. He is considered one of the leading scholars and educators in the city as the [[Guildmaster]] of [[The Enchanted Academy]], and his expertise and passion for teaching have earned him a reputation of being somewhat arrogant. Despite his aloof demeanor, Alaric is highly respected for his unparalleled intellect and his unwavering commitment to the pursuit of knowledge.

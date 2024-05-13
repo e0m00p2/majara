@@ -1,13 +1,4 @@
----
-aliases: 
-Class: Wizard
-Race: Half-Elf
-Threat Level: "6"
-Role: Civic
-Attitude: Neutral
-Intent: National
-Status: Dead
----
+
 
 # Article
 Grandmaster Spellweaver Alastair Brightstar is a highly respected and accomplished wizard and the leader of the [[Spellweavers' Society]]. Born into a family of talented spellweavers, Alastair showed a natural aptitude for magic from a young age and quickly rose through the ranks of the guild. He has dedicated his life to the study and practice of magic and is renowned for his knowledge and skill in the use of magic for practical purposes such as construction and maintenance.
