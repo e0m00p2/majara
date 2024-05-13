@@ -1,9 +1,14 @@
 ---
-icon: ":sticky-note:"
 aliases:
   - Side contents
-foundryId: JournalEntry.2o2QXPflYMOASZkH.JournalEntryPage.ZMwn58wFJMYNBsAO
-tags: []
+Class: Inventor
+Race: Gnome
+Threat Level: "16"
+Role: Merchant
+Attitude: Friendly
+Intent: Creator
+Status: Healthy
+Location: "[[The Wacky Warrens]]"
 ---
 
 # Side contents

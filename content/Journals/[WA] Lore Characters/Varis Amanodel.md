@@ -1,9 +1,14 @@
 ---
-icon: ":sticky-note:"
 aliases:
   - Side contents
-foundryId: JournalEntry.RFaPFIsZc7YQx5Hu.JournalEntryPage.7geGZObMcpNEzTfS
-tags: []
+Class: Inventor
+Race: Elf
+Threat Level: "15"
+Role: Civic
+Attitude: Friendly
+Intent: Creator
+Status: Dead
+Location: []
 ---
 ---
 # Article
